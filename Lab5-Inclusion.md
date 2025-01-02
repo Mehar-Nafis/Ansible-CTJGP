@@ -27,7 +27,7 @@ localhost ansible_connection=local
 vi playbook.yml
 ```
 ```
-- name: Demonstrate include_vars and import_vars
+- name: Demonstrate include_vars 
   hosts: localhost
   gather_facts: false
   vars_files: db_vars.yml

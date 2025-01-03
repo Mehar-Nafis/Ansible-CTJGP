@@ -1,7 +1,7 @@
 ## Run Once with Ansible Playbook
 Create and edit rolab.yml in the same labs directory
 ```
-cd ~ansible-labs
+cd ~/ansible-labs
 ```
 ```
 vi rolab.yml

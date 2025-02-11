@@ -96,7 +96,6 @@ Create a file named `myvariables.yml` with the following content:
 vi myvariables.yml
 ```
 ```yaml
----
 source: /home/ec2-user/ansible-labs/index2.html
 ```
 

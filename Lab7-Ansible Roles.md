@@ -106,8 +106,8 @@ Add the given content, by pressing "INSERT"
 
 - name: start httpd
   service:
-    name=httpd 
-    state=started
+    name: httpd 
+    state: started
 ```
 **save the file using** `ESCAPE + :wq!`
 
